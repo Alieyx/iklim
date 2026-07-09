@@ -1,0 +1,10 @@
+discord.py
+python-dotenv
+tensorflow
+keras
+numpy
+opencv-python
+Pillow
+requests
+aiohttp
+aiosqlite
