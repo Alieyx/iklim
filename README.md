@@ -24,7 +24,6 @@ Proje kapsamında yapılan her çevre dostu eylem için kullanıcılar **1 puan*
 
 * 🌳 **Ağaç Dikmek:** 1 Puan
 * 🗑️ **Çöp Toplamak:** 1 Puan
-* 💧 **Ağaç Sulamak:** 1 Puan
 
 ---
 
